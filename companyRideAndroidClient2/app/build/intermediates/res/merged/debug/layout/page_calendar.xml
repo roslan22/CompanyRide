@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:baselineAligned="false"
+    >
+
+    <!--<include android:id="@+id/header"  layout="@layout/calendar_header"-->
+             <!--android:layout_width="match_parent"-->
+             <!--android:layout_height="match_parent"-->
+             <!--android:layout_weight="30"/>-->
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" android:layout_alignParentEnd="false"
+        android:baselineAligned="false"
+        android:paddingBottom="1dp"
+        android:weightSum="7" android:id="@+id/days_of_week"
+        android:showDividers="middle" android:layout_weight="1" android:background="@color/grey">
+        <TextView android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="day1"
+                  android:id="@+id/day1" android:layout_weight="1" android:textAlignment="center"
+                  android:textSize="14sp"
+                  android:gravity="center" android:background="@color/primary"
+                  android:textColor="@android:color/white"/>
+        <TextView android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="day2"
+                  android:id="@+id/day2" android:layout_weight="1"
+                  android:textSize="14sp"
+                  android:gravity="center" android:background="@color/primary"
+                  android:textColor="@android:color/white"/>
+        <TextView android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="day3"
+                  android:id="@+id/day3" android:layout_weight="1" android:textAlignment="center"
+                  android:textSize="14sp"
+                  android:gravity="center" android:background="@color/primary"
+                  android:textColor="@android:color/white"/>
+        <TextView android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="day4"
+                  android:id="@+id/day4" android:layout_weight="1" android:textAlignment="center"
+                  android:textSize="14sp"
+                  android:gravity="center" android:background="@color/primary"
+                  android:textColor="@android:color/white"/>
+        <TextView android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="day5"
+                  android:id="@+id/day5" android:layout_weight="1" android:textAlignment="center"
+                  android:textSize="14sp"
+                  android:gravity="center" android:background="@color/primary"
+                  android:textColor="@android:color/white"/>
+        <TextView android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="day6"
+                  android:id="@+id/day6" android:layout_weight="1" android:textAlignment="center"
+                  android:textSize="14sp"
+                  android:gravity="center" android:background="@color/primary"
+                  android:textColor="@android:color/white"/>
+        <TextView android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="day7"
+                  android:id="@+id/day7" android:layout_weight="1" android:textAlignment="center"
+                  android:textSize="14sp"
+                  android:gravity="center" android:background="@color/primary"
+                  android:textColor="@android:color/white"/>
+    </LinearLayout>
+
+    <ViewFlipper xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:id="@+id/container"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="8">
+        <include android:id="@+id/first"  layout="@layout/calendar_grid" />
+        <include android:id="@+id/second"  layout="@layout/calendar_grid2" />
+    </ViewFlipper>
+</LinearLayout>

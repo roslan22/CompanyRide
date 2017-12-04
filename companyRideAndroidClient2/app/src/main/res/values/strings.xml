@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Company Ride</string>
+    <string name="user_info">User info</string>
+    <string name="user_profile">User Profile</string>
+    <string name="create_event">Create Event</string>
+    <string name="not_a_member">Not a member?</string>
+	<string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="max_number_of_hitchers">Maximum number of hitchers</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="more_info">More</string>
+    <string name="events">Events</string>
+    <string name="back">Back</string>
+    <string name="propose_ride">Propose Ride</string>
+    <string name="request_hitch">Request Hitch</string>
+    <string name="ride">Ride</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="map">Map</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="calendar">Calendar</string>
+    <string name="blockedUsers">Blocked Users</string>
+    <string name="time_format">HH:MM</string>
+    <string name="date_format">mm/dd/yyyy</string>
+    <string name="hitchers">Hitchers</string>
+    <string name="rideDetails">Ride Details</string>
+    <string name="messages">Hitcher messages</string>
+    <string name="edit">Edit</string>
+    <string name="driver">Driver</string>
+    <string name="approve">Approve</string>
+    <string name="disapprove">Disapprove</string>
+    <string name="hitchRequest">Hitch Request</string>
+    <string name="driveProposal">Drive Proposal</string>
+    <string name="drop">Drop </string>
+    <string name="pickup">Pick up </string>
+    <string name="time">Time</string>
+    <string name="edit_pickup_details">Edit PickUp Details</string>
+    <string name="submit">Submit</string>
+    <string name="account">Account</string>
+    <string name="system">System</string>
+    <string name="edit_account">Edit Account</string>
+    <string name="driver_ride">Driver Ride</string>
+    <string name="hitcher_ride">Hitcher Ride</string>
+    <string name="exit_confirmation">Exit CompanyRide?</string>
+    <string name="choose_message">Choose message:</string>
+    <string name="exit">Exit</string>
+    <string name="your_position">Your position</string>
+    <string name="change_pic">Change Picture</string>
+    <string name="change_pic_cam">Capture New Photo</string>
+    <string name="save_picture">Save Picture</string>
+    <string name="driver_messages">Driver messages</string>
+    <string name="potRidesTitle">Potential Rides</string>
+    <string name="gps_network_not_enabled">In order to autolocate your position please turn on the location services!</string>
+    <string name="rideRequestTitle">Ride Request</string>
+    <string name="chgRideRequestTitle">Change ride request</string>
+    <string name="chgRideRequestText">Click "Apply" to change your request to</string>
+    <string name="date">Date</string>
+    <string name="apply">Apply</string>
+    <string name="open_location_settings">Open Location settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+    <string name="hitcher">Hitcher</string>
+    <string name="rating">Points</string>
+    <string name="unblock_selected_users">Unblock selected users</string>
+    <string name="first_name">First Name</string>
+    <string name="month">Month</string>
+    <string name="weekly">Weekly</string>
+    <string name="email">Your Email</string>
+    <string name="stop_reoccurring_events_date">Stop reoccurring event at date</string>
+    <string name="one_time">One Time</string>
+    <string name="start_date">Start Date</string>
+    <string name="navigation">Navigation</string>
+    <string name="ride_hours">Ride hours</string>
+    <string name="max_distance_to_go">Maximum distance to go by walk</string>
+    <string name="from_hour">From hour</string>
+    <string name="to_hour">To hour</string>
+    <string name="please_approve_pick_up">Please approve pickup and drop location and time</string>
+    <string name="pot_rides_search">Find Similar Rides</string>
+    <string name="full_name">Full name</string>
+    <string name="destination">Destination</string>
+    <string name="last_name">Last Name</string>
+    <string name="company">Company Name</string>
+    <string name="about">About</string>
+    <string name="current_location">Current Location</string>
+    <string name="place_details">Place details</string>
+    <string name="feedback">Feedback</string>
+    <string name="cancel_request">Cancel Request</string>
+
+    <string-array name="number_of_hitchers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="messages">
+        <item>Coming</item>
+        <item>At the point</item>
+        <item>5 min Late</item>
+        <item>10 min Late</item>
+        <item>15 min Late</item>
+        <item>30 min Late</item>
+        <item>Sorry, not coming</item>
+    </string-array>
+
+
+    <string-array name="week_days">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+
+    <string-array name="month_names">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string-array name="feedback_array">
+        <item>Review</item>
+        <item>Suggestion</item>
+        <item>Bug</item>
+        <item>Support</item>
+    </string-array>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>@string/user_profile</item>
+        <item>@string/calendar</item>
+        <item>@string/blockedUsers</item>
+        <item>@string/account</item>
+        <item>@string/system</item>
+        <item>@string/feedback</item>
+        <item>@string/about</item>
+        <item>@string/logout</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_action_person_navigation</item>
+        <item>@drawable/ic_action_calendar_navigation</item>
+        <item>@drawable/ic_blocked_users</item>
+        <item>@drawable/ic_action_account</item>
+        <item>@drawable/ic_action_settings</item>
+        <item>@drawable/ic_thumb_up</item>
+        <item>@drawable/ic_action_about</item>
+        <item>@drawable/ic_action_logout</item>
+    </array>
+    <string name="starts">Starts</string>
+    <string name="ends">Ends</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="must_have_from_addr">Must specify from address</string>
+    <string name="must_have_to_addr">Must specify to address</string>
+    <string name="give_feedback">Feedback type</string>
+    <string name="feedback_category">Feedback category</string>
+    <string name="your_feedback">Your feedback</string>
+    <string name="share_email">I agree to share my email for future communication related to my feedback</string>
+    <string name="other">Other</string>
+    <string name="copyright">Copyright © CompanyRide</string>
+    <string name="companyRideEmail">Contact us: contact@companyride.me</string>
+    <string name="licence_agreement">Licence agreement:</string>
+    <string name="eula">
+    EULA
+    </string>
+
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="17065932881806"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="2261" />
+    <task
+        name="instant-run-dex"
+        duration="378" />
+    <task
+        name="instant-run-transform"
+        duration="22" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="C:\Users\Ruslan\Desktop\new CmpRide\companyRideAndroidClient2\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="8220500489616" >
+        <artifact
+            location="C:\Users\Ruslan\Desktop\new CmpRide\companyRideAndroidClient2\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="13493981758348"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\Users\Ruslan\Desktop\new CmpRide\companyRideAndroidClient2\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Ruslan\Desktop\new CmpRide\companyRideAndroidClient2\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Ruslan\Desktop\new CmpRide\companyRideAndroidClient2\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Ruslan\Desktop\new CmpRide\companyRideAndroidClient2\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Ruslan\Desktop\new CmpRide\companyRideAndroidClient2\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Ruslan\Desktop\new CmpRide\companyRideAndroidClient2\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Ruslan\Desktop\new CmpRide\companyRideAndroidClient2\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Ruslan\Desktop\new CmpRide\companyRideAndroidClient2\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="16887588759033"
+        verifier="FIELD_TYPE_CHANGE" >
+        <artifact
+            location="C:\Users\Ruslan\Desktop\new CmpRide\companyRideAndroidClient2\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\Ruslan\Desktop\new CmpRide\companyRideAndroidClient2\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="17065932881806"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ruslan\Desktop\new CmpRide\companyRideAndroidClient2\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

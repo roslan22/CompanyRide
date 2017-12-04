@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="transparent" type="color">#00FFFFFF</item>
+    <item name="white" type="color">#FFFFFF</item>
+    <item name="grey" type="color">#E0E0E0</item>
+    <item name="lightgrey" type="color">#ffd6d6d6</item>
+    <color name="text_color">#555555</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="primary_light">#C5CAE9</color>
+    <color name="primary">#3F51B5</color>
+    <color name="accent">#FF9800</color>
+    <color name="black">#000000</color>
+</resources>

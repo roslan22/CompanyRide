@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fromToLayout">
+    <!-- Ride details Text Divider-->
+    <TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        style="?android:listSeparatorTextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rideDetails"
+        />
+    <!-- Reuse details layout-->
+    <include layout="@layout/ride_from_to_time_details" android:id="@+id/rideDetailsContainer"
+             android:layout_height="0dp"
+             android:layout_width="match_parent"
+             android:layout_weight="1"
+        />
+    <!-- Hitchers Text Divider-->
+    <TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        style="?android:listSeparatorTextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hitchers"
+        android:id="@+id/tvMessages"
+        />
+    <!-- Hitchers List View -->
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/listViewHitchers"
+        android:scrollIndicators="end"
+        android:smoothScrollbar="true"
+        android:fastScrollAlwaysVisible="false"
+        android:fastScrollEnabled="false"
+        android:layout_weight="7"/>
+
+</LinearLayout>

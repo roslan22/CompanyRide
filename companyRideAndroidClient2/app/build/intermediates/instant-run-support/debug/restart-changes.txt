@@ -1,0 +1,1 @@
+CHANGED,C:\Users\Ruslan\Desktop\new CmpRide\companyRideAndroidClient2\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\companyride\fragments\AboutFragment.class

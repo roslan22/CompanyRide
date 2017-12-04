@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical" android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:id="@+id/potRidesLayout"
+              android:divider="@drawable/mydivider"
+              android:showDividers="middle"
+              android:clickable="false">
+    <!-- Hitchers List View -->
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="20"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/destination"
+            android:id="@+id/destinationLabel"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:textAllCaps="true"
+            android:textSize="14sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/date"
+            android:id="@+id/dateLabel"
+            android:layout_weight="3"
+            android:gravity="center"
+            android:textAllCaps="true"
+            android:textSize="14sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/time"
+            android:id="@+id/timeLabel"
+            android:layout_weight="3"
+            android:gravity="center"
+            android:textAllCaps="true"
+            android:textSize="14sp"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listViewPotRides"
+        android:layout_weight="1"
+        android:fastScrollAlwaysVisible="false"
+        android:footerDividersEnabled="false"/>
+
+</LinearLayout>

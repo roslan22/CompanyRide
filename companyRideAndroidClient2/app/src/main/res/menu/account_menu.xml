@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu  xmlns:tools="http://schemas.android.com/tools"
+       xmlns:app="http://schemas.android.com/apk/res-auto"
+       xmlns:android="http://schemas.android.com/apk/res/android"
+      tools:context="com.example.companyRide.RideRequest">
+    <item android:id="@+id/chgPicMenuItem"
+          android:title="@string/change_pic"
+          android:icon="@drawable/ic_action_new_picture"
+          app:showAsAction="ifRoom">
+    </item>
+    <item android:id="@+id/chgPicCamMenuItem"
+          android:title="@string/change_pic_cam"
+          android:icon="@drawable/ic_action_camera"
+          app:showAsAction="ifRoom">
+    </item>
+    <item android:id="@+id/editMenuItem"
+          android:title="@string/edit"
+          android:icon="@drawable/ic_action_edit"
+          app:showAsAction="ifRoom">
+    </item>
+
+</menu>

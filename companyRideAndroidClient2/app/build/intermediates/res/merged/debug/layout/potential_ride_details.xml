@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:paddingTop="@dimen/abc_action_bar_icon_vertical_padding_material"
+              android:paddingBottom="@dimen/abc_action_bar_icon_vertical_padding_material"
+    >
+
+    <TextView android:layout_width="match_parent" android:layout_height="match_parent" android:text="Some Address"
+              android:id="@+id/textViewTo"
+              android:paddingLeft="20sp"
+              android:layout_weight="2"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="10/09/2015"
+        android:id="@+id/date"
+        android:gravity="center_horizontal"
+        android:paddingRight="10dp"
+        android:layout_weight="3"/>
+
+    <TextView android:layout_width="match_parent" android:layout_height="match_parent" android:text="11:37-16:37"
+              android:id="@+id/pickUpTime"
+              android:gravity="center_horizontal"
+              android:paddingRight="10dp"
+              android:layout_weight="3"/>
+</LinearLayout>

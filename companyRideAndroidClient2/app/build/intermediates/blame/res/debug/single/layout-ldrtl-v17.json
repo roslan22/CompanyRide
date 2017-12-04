@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17\\calendar_header.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout-ldrtl\\calendar_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17\\drawer_item.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout-ldrtl\\drawer_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-v17\\userinfo_part.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout-ldrtl\\userinfo_part.xml"
+    }
+]

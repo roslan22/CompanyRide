@@ -1,0 +1,38 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content" android:id="@+id/hitcher" android:padding="5dp">
+
+    <!-- Hitcher details ride -->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/hitcherDetails" android:layout_weight="2">
+        <!-- Pickup hitchers details -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:text="@string/full_name"
+            android:id="@+id/hitcherFullName" android:textSize="21dp"
+            android:textIsSelectable="false" android:textStyle="bold|italic" android:textColor="#ff1d83ff"
+            android:paddingStart="10dp"/>
+        <TextView
+            android:layout_width="179dp"
+            android:layout_height="wrap_content"
+            android:text="..."
+            android:id="@+id/tvMsgs" android:textSize="18dp"
+            android:textIsSelectable="false" android:textStyle="bold"
+            android:paddingLeft="9dp" />
+        <!-- Profile Picture -->
+
+    </LinearLayout>
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/hitcherImage"
+        android:src="@drawable/default_profile_pic"
+        android:padding="2dp" android:layout_weight="1"/>
+    <!-- Reuse approve buttons layout-->
+</LinearLayout>

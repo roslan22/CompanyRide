@@ -1,0 +1,9 @@
+#!/bin/sh
+
+serverLogFile="${CompanyRideLogsPath}/nodeServer.log"
+cd $CompanyRidePath
+echo "Log path is: ${serverLogFile}"
+echo "Starting the node server" > ${serverLogFile}
+nohup node server.js > ${serverLogFile} 2>&1&
+echo $! > $CompanyRideLogsPath/last_pid.txt
+

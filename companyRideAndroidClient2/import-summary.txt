@@ -1,0 +1,133 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\scopes\
+* .idea\scopes\scope_settings.xml
+* .idea\uiDesigner.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* companyRideAndroidClient2.iml
+* newCompanyRide.iml
+* out\
+* out\production\
+* out\production\companyRideAndroidClient2\
+* out\production\companyRideAndroidClient2\com\
+* out\production\companyRideAndroidClient2\com\companyride\
+* out\production\companyRideAndroidClient2\com\companyride\BuildConfig.class
+* out\production\companyRideAndroidClient2\com\companyride\R$anim.class
+* out\production\companyRideAndroidClient2\com\companyride\R$array.class
+* out\production\companyRideAndroidClient2\com\companyride\R$attr.class
+* out\production\companyRideAndroidClient2\com\companyride\R$color.class
+* out\production\companyRideAndroidClient2\com\companyride\R$drawable.class
+* out\production\companyRideAndroidClient2\com\companyride\R$id.class
+* out\production\companyRideAndroidClient2\com\companyride\R$layout.class
+* out\production\companyRideAndroidClient2\com\companyride\R$menu.class
+* out\production\companyRideAndroidClient2\com\companyride\R$string.class
+* out\production\companyRideAndroidClient2\com\companyride\R.class
+* out\production\companyRideAndroidClient2\com\companyride\activities\
+* out\production\companyRideAndroidClient2\com\companyride\activities\CalendarActivity$1.class
+* out\production\companyRideAndroidClient2\com\companyride\activities\CalendarActivity$2.class
+* out\production\companyRideAndroidClient2\com\companyride\activities\CalendarActivity$3.class
+* out\production\companyRideAndroidClient2\com\companyride\activities\CalendarActivity$4.class
+* out\production\companyRideAndroidClient2\com\companyride\activities\CalendarActivity$5.class
+* out\production\companyRideAndroidClient2\com\companyride\activities\CalendarActivity$MyGestureDetector.class
+* out\production\companyRideAndroidClient2\com\companyride\activities\CalendarActivity.class
+* out\production\companyRideAndroidClient2\com\companyride\activities\CalendarAdapter.class
+* out\production\companyRideAndroidClient2\com\companyride\activities\Login.class
+* out\production\companyRideAndroidClient2\com\companyride\activities\RideRequest$1.class
+* out\production\companyRideAndroidClient2\com\companyride\activities\RideRequest$2.class
+* out\production\companyRideAndroidClient2\com\companyride\activities\RideRequest$3.class
+* out\production\companyRideAndroidClient2\com\companyride\activities\RideRequest$4.class
+* out\production\companyRideAndroidClient2\com\companyride\activities\RideRequest.class
+* out\production\companyRideAndroidClient2\com\companyride\activities\SignUp.class
+* out\production\companyRideAndroidClient2\com\companyride\activities\User.class
+* out\production\companyRideAndroidClient2\com\companyride\activities\UserProfile.class
+* out\production\companyRideAndroidClient2\com\companyride\fragments\
+* out\production\companyRideAndroidClient2\com\companyride\fragments\DatePickerFragment.class
+* out\production\companyRideAndroidClient2\com\companyride\fragments\TimePickerFragment.class
+* out\production\companyRideAndroidClient2\com\companyride\http\
+* out\production\companyRideAndroidClient2\com\companyride\http\GetExecutor.class
+* out\production\companyRideAndroidClient2\com\companyride\http\ImageLoaderTask.class
+* out\production\companyRideAndroidClient2\com\companyride\http\PostExecutor.class
+* out\production\companyRideAndroidClient2\com\companyride\parameters\
+* out\production\companyRideAndroidClient2\com\companyride\parameters\AppSharedData.class
+* out\production\companyRideAndroidClient2\com\companyride\parameters\Params.class
+* out\production\companyRideAndroidClient2\com\companyride\utils\
+* out\production\companyRideAndroidClient2\com\companyride\utils\UtilityFunctions.class
+* out\production\companyRideAndroidClient2\companyRideAndroidClient2.apk
+* out\production\companyRideAndroidClient2\companyRideAndroidClient2.unaligned.apk
+* out\production\newCompanyRide\
+* out\production\newCompanyRide\com\
+* out\production\newCompanyRide\com\companyride\
+* out\production\newCompanyRide\com\companyride\BuildConfig.class
+* out\production\newCompanyRide\com\companyride\R$array.class
+* out\production\newCompanyRide\com\companyride\R$attr.class
+* out\production\newCompanyRide\com\companyride\R$drawable.class
+* out\production\newCompanyRide\com\companyride\R$id.class
+* out\production\newCompanyRide\com\companyride\R$layout.class
+* out\production\newCompanyRide\com\companyride\R$menu.class
+* out\production\newCompanyRide\com\companyride\R$string.class
+* out\production\newCompanyRide\com\companyride\R.class
+* out\production\newCompanyRide\com\companyride\activities\
+* out\production\newCompanyRide\com\companyride\activities\Login.class
+* out\production\newCompanyRide\com\companyride\activities\RideRequest$1.class
+* out\production\newCompanyRide\com\companyride\activities\RideRequest$2.class
+* out\production\newCompanyRide\com\companyride\activities\RideRequest$3.class
+* out\production\newCompanyRide\com\companyride\activities\RideRequest$4.class
+* out\production\newCompanyRide\com\companyride\activities\RideRequest.class
+* out\production\newCompanyRide\com\companyride\activities\SignUp.class
+* out\production\newCompanyRide\com\companyride\activities\User.class
+* out\production\newCompanyRide\com\companyride\activities\UserProfile.class
+* out\production\newCompanyRide\com\companyride\fragments\
+* out\production\newCompanyRide\com\companyride\fragments\DatePickerFragment.class
+* out\production\newCompanyRide\com\companyride\fragments\TimePickerFragment.class
+* out\production\newCompanyRide\com\companyride\http\
+* out\production\newCompanyRide\com\companyride\http\GetExecutor.class
+* out\production\newCompanyRide\com\companyride\http\ImageLoaderTask.class
+* out\production\newCompanyRide\com\companyride\http\PostExecutor.class
+* out\production\newCompanyRide\com\companyride\parameters\
+* out\production\newCompanyRide\com\companyride\parameters\AppSharedData.class
+* out\production\newCompanyRide\com\companyride\parameters\Params.class
+* out\production\newCompanyRide\com\companyride\utils\
+* out\production\newCompanyRide\com\companyride\utils\UtilityFunctions.class
+* out\production\newCompanyRide\newCompanyRide.apk
+* out\production\newCompanyRide\newCompanyRide.unaligned.apk
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

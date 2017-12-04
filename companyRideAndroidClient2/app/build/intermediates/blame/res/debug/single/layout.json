@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\userinfo_part.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\userinfo_part.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\maxdistancetogo.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\maxdistancetogo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_item.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\drawer_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_grid2.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\calendar_grid2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_toolbar.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\my_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ride_message_box.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\ride_message_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messagelayout.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\messagelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hitcher.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\hitcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\maxnumofhitchers.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\maxnumofhitchers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\approve_buttons.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\approve_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_singup.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\page_singup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_account.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\page_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickup_details_fragment.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\pickup_details_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_eula.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\product_eula.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ride_screen.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\ride_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_blocked_users.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\page_blocked_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_screen.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\main_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\driver_part.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\driver_part.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_about.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\page_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\month_item.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\month_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_ride_request.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\page_ride_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_ride_driver.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\page_ride_driver.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_feedback.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\page_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btnstatus.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\btnstatus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ride_messages_view.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\ride_messages_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ride_req_screen.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\ride_req_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_header.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\calendar_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\container.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_calendar.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\page_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ride_event.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\ride_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_grid.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\calendar_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_ride_request_pot_rides.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\page_ride_request_pot_rides.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_item.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\calendar_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mp.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\mp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\divider_with_title.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\divider_with_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_user_profile.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\page_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_ride_hitcher.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\page_ride_hitcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_bar_custom.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\action_bar_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ride_from_to_time_details.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\ride_from_to_time_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_login.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\page_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\potential_ride_details.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\layout\\potential_ride_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    }
+]

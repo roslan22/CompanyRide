@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" android:padding="10dp">
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id="@+id/scrollView" android:layout_gravity="top" android:layout_weight="1">
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/rideRequestDataLayout">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/rideRequestFromLayout"
+                    >
+                    <android.support.design.widget.TextInputLayout
+                        android:id="@+id/input_layout_from_req"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+                        <AutoCompleteTextView
+                                android:id="@+id/autoCompleteFrom"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint="@string/from"
+                                android:singleLine="true"
+                                android:ems="10"/>
+                    </android.support.design.widget.TextInputLayout>
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/buttonLocationRideRequest"
+                        android:src="@drawable/ic_action_place_small"
+                        android:background="@color/transparent"
+                        android:contentDescription="@string/current_location"
+                        android:layout_weight="6"
+                        android:layout_gravity="center"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/rideRequestToLayout"
+                    >
+                    <android.support.design.widget.TextInputLayout
+                        android:id="@+id/input_layout_to_req"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+                        <AutoCompleteTextView
+                            android:id="@+id/autoCompleteTo"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:singleLine="true"
+                            android:ems="10" android:hint="@string/to"/>
+                    </android.support.design.widget.TextInputLayout>
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/buttonLocationRideRequestTo"
+                        android:src="@drawable/ic_action_place_small"
+                        android:background="@color/transparent"
+                        android:contentDescription="@string/current_location"
+                        android:layout_weight="6"
+                        android:layout_gravity="center"/>
+                </LinearLayout>
+            </LinearLayout>
+
+            <RadioGroup
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent" android:id="@+id/radioGroupEventTypes"
+                    android:baselineAligned="false">
+                <RadioButton
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/weekly"
+                    android:id="@+id/radioWeekly" android:layout_weight="1" android:checked="true"
+                />
+                <RadioButton android:layout_width="match_parent" android:layout_height="wrap_content"
+                             android:text="@string/one_time" android:id="@+id/radioOneTime" android:layout_weight="1"
+                             android:layout_gravity="start"
+                />
+            </RadioGroup>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" android:focusableInTouchMode="false" android:id="@+id/rideDateZone"
+                android:layout_gravity="start">
+                <android.support.design.widget.TextInputLayout
+                    android:id="@+id/input_layout_start_req"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <EditText
+                        android:layout_height="wrap_content"
+                        android:inputType="date"
+                        android:ems="10"
+                        android:id="@+id/editTextRideDate"
+                        android:hint="@string/start_date"
+                        android:singleLine="true"
+                        android:layout_width="match_parent"/>
+                </android.support.design.widget.TextInputLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/hoursZone"
+                android:weightSum="2">
+                <android.support.design.widget.TextInputLayout
+                    android:id="@+id/input_layout_from_hour_req"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textAlignment="center"
+                    android:layout_gravity="center">
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/editStartHour"
+                        android:hint="@string/from_hour"
+                        android:inputType="time"
+                        />
+                </android.support.design.widget.TextInputLayout>
+                <android.support.design.widget.TextInputLayout
+                    android:id="@+id/input_layout_to_hour_req"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textAlignment="center"
+                    android:layout_gravity="center_vertical">
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/editStopHour"
+                        android:hint="@string/to_hour"
+                        android:inputType="time"/>
+                </android.support.design.widget.TextInputLayout>
+            </LinearLayout>
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_layout_stop_req"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <EditText android:layout_width="fill_parent" android:layout_height="0dp" android:inputType="date"
+                          android:ems="10" android:id="@+id/editTextStopRideDate" android:layout_weight="1"
+                          android:hint="@string/stop_reoccurring_events_date"/>
+            </android.support.design.widget.TextInputLayout>
+            <!--<LinearLayout-->
+                    <!--android:orientation="horizontal"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="match_parent" android:id="@+id/customZone">-->
+
+            <!--</LinearLayout>-->
+            <include layout="@layout/maxdistancetogo" android:visibility="gone"  android:id="@+id/maxDistanceToGo" />
+            <include layout="@layout/maxnumofhitchers" android:visibility="gone"  android:id="@+id/maxNumOfHitchers" />
+        </LinearLayout>
+    </ScrollView>
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textViewMessage" android:textColor="@android:color/holo_red_dark"/>
+    <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/submit"
+            android:id="@+id/buttonSubmit"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pot_rides_search"
+        android:id="@+id/potRidesBtn"
+        android:visibility="gone"/>
+
+</LinearLayout>

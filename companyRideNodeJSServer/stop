@@ -1,0 +1,6 @@
+#!/bin/sh
+
+cd $CompanyRidePath
+echo "Stoping the node server, process:"
+echo `cat $CompanyRideLogsPath/last_pid.txt`
+kill -9 `cat $CompanyRideLogsPath/last_pid.txt`

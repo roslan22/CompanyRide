@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"
+        >
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" android:id="@+id/mainInfo" android:padding="5dp" android:gravity="top"
+            android:layout_weight="8">
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:layout_gravity="right" android:id="@+id/header">
+            <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent" android:padding="5dp">
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="@string/driver"
+                        android:id="@+id/textDriver"/>
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                          android:textAppearance="?android:attr/textAppearanceSmall" android:text="@string/hitcher"
+                          android:id="@+id/textHitcher" android:singleLine="false"/>
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                          android:textAppearance="?android:attr/textAppearanceSmall" android:text="@string/rating"
+                          android:id="@+id/textRating" android:singleLine="false"/>
+            </LinearLayout>
+            <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent" android:padding="5dp">
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                          android:textAppearance="?android:attr/textAppearanceSmall" android:text="..."
+                          android:id="@+id/textDriverNum"/>
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                          android:textAppearance="?android:attr/textAppearanceSmall" android:text="..."
+                          android:id="@+id/textHitcherNum" android:singleLine="false"/>
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                          android:textAppearance="?android:attr/textAppearanceSmall" android:text="..."
+                          android:id="@+id/textRatingNum" android:singleLine="false"/>
+            </LinearLayout>
+            <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent" android:id="@+id/badgesZone">
+            </LinearLayout>
+        </LinearLayout>
+
+        <include android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 layout="@layout/userinfo_part"
+                 android:id="@+id/about"/>
+
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" android:id="@+id/specialRequests">
+        </LinearLayout>
+        <ListView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/listViewMessages"/>
+    </LinearLayout>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" android:id="@+id/buttons" android:gravity="bottom"
+            android:layout_below="@+id/mainInfo" android:layout_weight="1" android:visibility="gone">
+        <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/propose_ride"
+                android:drawableLeft="@drawable/ic_dialog_in_process_driver"
+                android:id="@+id/buttonProposeRide" android:layout_weight="1"/>
+        <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_dialog_in_process_hitcher"
+                android:text="@string/request_hitch"
+                android:id="@+id/buttonFindRide" android:layout_weight="1"/>
+    </LinearLayout>
+</LinearLayout>

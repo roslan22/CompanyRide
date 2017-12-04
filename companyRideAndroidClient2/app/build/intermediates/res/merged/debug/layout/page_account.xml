@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content" android:id="@+id/userInfoContainer">
+
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content"
+              android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/tvMessageUser"
+              android:textStyle="bold" android:textColor="#ffb90200"/>
+    <include android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             layout="@layout/userinfo_part"
+             android:id="@+id/userInfo"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/save_picture"
+            android:id="@+id/updatePic"
+            android:layout_gravity="right"
+            android:visibility="gone"/>
+    </LinearLayout>
+
+</LinearLayout>

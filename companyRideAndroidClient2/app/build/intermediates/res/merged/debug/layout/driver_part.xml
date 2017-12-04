@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/driverDetails">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="..."
+                android:id="@+id/textFullName"
+                android:textSize="27dp"
+                android:textIsSelectable="false" android:textStyle="bold|italic" android:textColor="#ff1d83ff"
+                android:gravity="center_vertical"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="..."
+                android:id="@+id/textOccupation"
+                android:gravity="center_vertical"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/buttonSendMessageDriver"
+            android:background="@drawable/button_states"
+            android:drawableTop="@drawable/ic_action_message_body"
+            android:layout_gravity="center_vertical|right"
+            android:layout_weight="1"
+            android:gravity="right"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/imageProfile" android:src="@drawable/default_profile_pic"
+                android:padding="5dp" android:layout_weight="2"
+                android:layout_gravity="center" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

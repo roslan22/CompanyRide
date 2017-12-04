@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/input_layout_stop_req"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="numberSigned"
+                    android:id="@+id/editTextMaxDistanceToGo"
+                    android:enabled="false"
+                android:hint="@string/max_distance_to_go"/>
+        </android.support.design.widget.TextInputLayout>
+    </LinearLayout>
+    <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/seekBarMaxDistanceToGo" android:max="4000"
+        android:progress="500"
+        android:indeterminate="false" />
+
+</LinearLayout>

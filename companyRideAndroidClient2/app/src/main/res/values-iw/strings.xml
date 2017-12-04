@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="user_profile">פרופיל משתמש</string>
+    <string name="user_info">מידע אישי</string>
+    <string name="create_event">יצירת אירוע</string>
+    <string name="not_a_member">עדיין לא רשום?</string>
+	<string name="sign_up">הירשם</string>
+    <string name="login">התחבר</string>
+    <string name="max_number_of_hitchers">מספר נוסעים מקסימלי</string>
+    <string name="username">שם משתמש</string>
+    <string name="password">סיסמה</string>
+    <string name="more_info">עוד</string>
+    <string name="events">אירועים</string>
+    <string name="back">חזור</string>
+    <string name="propose_ride">להציע נסיעה</string>
+    <string name="request_hitch">להצטרף לנסיעה</string>
+    <string name="ride">נסיעה</string>
+    <string name="map">מפה</string>
+    <string name="settings">הגדרות</string>
+    <string name="logout">התנתק</string>
+    <string name="calendar">יומן</string>
+    <string name="blockedUsers">משתמשים חסומים</string>
+    <string name="hitchers">נוסעים שלי</string>
+    <string name="rideDetails">פרטי נסיעה</string>
+    <string name="messages">הודעות מנוסעים</string>
+    <string name="edit">ערוך</string>
+    <string name="driver">נהג</string>
+    <string name="approve">אישור</string>
+    <string name="disapprove">ביטול</string>
+    <string name="hitchRequest">בקשת הסעה</string>
+    <string name="driveProposal">הצעת נסיעה</string>
+    <string name="drop">הורדה</string>
+    <string name="pickup">איסוף</string>
+    <string name="time">זמן</string>
+    <string name="edit_pickup_details">פרטי האיסוף</string>
+    <string name="submit">אישור</string>
+    <string name="account">מידע אישי</string>
+    <string name="system">מערכת</string>
+    <string name="edit_account">שינוי פרטים</string>
+    <string name="driver_ride">נסיעה</string>
+    <string name="hitcher_ride">טרמפ</string>
+    <string name="exit_confirmation">האם ברצונך לצאת מאפליקציה?</string>
+    <string name="choose_message">בחר הודעה</string>
+    <string name="exit">אישור</string>
+    <string name="your_position">מקצוע שלך</string>
+    <string name="change_pic">שנה תמונה</string>
+    <string name="change_pic_cam">צלם תמונה חדשה</string>
+    <string name="save_picture">שמור תמונה</string>
+    <string name="driver_messages">הודעות מנהג</string>
+	<string name="potRidesTitle">נסיעות דומות</string>
+    <string name="gps_network_not_enabled">אנא תפעיל שירותי המיקום כדי שתוכל לקבל מיקום שלך אוטומטית!</string>
+	<string name="rideRequestTitle">בקשת נסיעה</string>
+    <string name="chgRideRequestTitle">שינוי בקשת נסיעה</string>
+    <string name="chgRideRequestText">לחץ "אשר" לשינוי הבקשה ל:</string>
+    <string name="date">תאריך</string>
+    <string name="apply">אשר</string>
+    <string name="open_location_settings">פתח שירותי מיקום</string>
+    <string name="cancel">ביטול</string>
+    <string name="to">יעד</string>
+    <string name="from">מוצא</string>
+    <string name="hitcher">נוסע</string>
+    <string name="rating">נקודות</string>
+    <string name="unblock_selected_users">לאשר נסיעות עם אנשים נבחרים</string>
+    <string name="first_name">שם</string>
+    <string name="month">חודש</string>
+    <string name="weekly">שבועי</string>
+    <string name="email">דוא"ל שלך</string>
+    <string name="stop_reoccurring_events_date">להפסיק אירוע חוזר בתאריך</string>
+    <string name="one_time">חד פעמי</string>
+    <string name="start_date">תאריך התחלה</string>
+    <string name="navigation">ניווט</string>
+    <string name="ride_hours">שעות נסיעה</string>
+    <string name="max_distance_to_go">מרחק הליכה מירבי</string>
+    <string name="from_hour">משעה</string>
+    <string name="to_hour">עד שעה</string>
+    <string name="please_approve_pick_up">נא אשר זמן ומיקום של אסיפה והורדה</string>
+    <string name="pot_rides_search">חפש נסיעות דומות</string>
+    <string name="full_name">שם מלא</string>
+    <string name="destination">יעד</string>
+    <string name="last_name">שם משפחה</string>
+    <string name="company">מקום עבודה</string>
+    <string name="about">מידע נוסף</string>
+
+    <string-array name="number_of_hitchers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="messages">
+        <item>מגיע</item>
+        <item>הגעתי לנקודה</item>
+        <item>מאחר 5 דקות</item>
+        <item>מאחר 10 דקות</item>
+        <item>מאחר 15 דקות</item>
+        <item>מאחר 30 דקות</item>
+        <item>סליחה אני לא מגיע</item>
+    </string-array>
+
+    <string-array name="week_days">
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>שבת</item>
+    </string-array>
+
+    <string-array name="month_names">
+        <item>ינואר</item>
+        <item>פברואר</item>
+        <item>מרץ</item>
+        <item>אפריל</item>
+        <item>מאי</item>
+        <item>יוני</item>
+        <item>יולי</item>
+        <item>אוגוסט</item>
+        <item>ספטמבר</item>
+        <item>אוקטובר</item>
+        <item>נובמבר</item>
+        <item>דצמבר</item>
+    </string-array>
+
+    <string-array name="feedback_array">
+        <item>משוב</item>
+        <item>הצעה</item>
+        <item>תקלה</item>
+        <item>תמיכה</item>
+    </string-array>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>@string/user_profile</item>
+        <item>@string/calendar</item>
+        <item>@string/blockedUsers</item>
+        <item>@string/account</item>
+        <item>@string/system</item>
+        <item>@string/about</item>
+        <item>@string/logout</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_action_person_navigation</item>
+        <item>@drawable/ic_action_calendar_navigation</item>
+        <item>@drawable/ic_blocked_users</item>
+        <item>@drawable/ic_action_account</item>
+        <item>@drawable/ic_action_settings</item>
+        <item>@drawable/ic_action_about</item>
+        <item>@drawable/ic_action_logout</item>
+    </array>
+    <string name="app_name">Company Ride</string>
+    <string name="date_format">dd/mm/yyyy</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="time_format">HH:MM</string>
+    <string name="current_location">מיקום נוכחי</string>
+    <string name="place_details">פרטי מיקום</string>
+    <string name="feedback">משוב</string>
+    <string name="cancel_request">לבטל בקשה</string>
+    <string name="starts">מתחיל</string>
+    <string name="ends">מסתיים</string>
+    <string name="title_activity_maps">מפה</string>
+    <string name="repeat_password">וידוי סיסמא</string>
+    <string name="must_have_from_addr">Must specify from address</string>
+    <string name="must_have_to_addr">Must specify to address</string>
+    <string name="give_feedback">סוג משוב</string>
+    <string name="feedback_category">סוג המשוב</string>
+    <string name="share_email">אני מסקים לשתף מייל לצורך יצירת קשר לגבי המשוב</string>
+    <string name="other">שונות</string>
+
+</resources>

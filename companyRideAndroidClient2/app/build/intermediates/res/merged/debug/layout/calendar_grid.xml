@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout android:layout_height="fill_parent" android:layout_width="fill_parent"
+             xmlns:android="http://schemas.android.com/apk/res/android" android:focusableInTouchMode="true"
+             android:animateLayoutChanges="true">
+
+    <GridView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/gridView"
+              android:layout_width="fill_parent" android:layout_height="fill_parent" android:numColumns="7"
+              android:gravity="center" android:background="@color/grey" android:stackFromBottom="false"
+              android:verticalSpacing="1dp" android:horizontalSpacing="1dp" android:drawSelectorOnTop="true"
+              android:stretchMode="columnWidth"/>
+</FrameLayout>

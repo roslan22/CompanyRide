@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/header"
+              android:orientation="horizontal"
+              android:layout_width="fill_parent"
+              android:layout_height="match_parent"
+              android:background="@color/accent"
+              android:layout_weight="25" android:gravity="center_vertical|center_horizontal">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent" android:gravity="center|start" android:layout_weight="2"
+        android:paddingStart="20dp" android:id="@+id/previous_layout">
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/previous" android:background="@drawable/calendar_right_arrow_selector"/>
+    </LinearLayout>
+
+    <TextView
+            android:id="@+id/title"
+            android:layout_height="fill_parent"
+            android:layout_width="match_parent"
+            android:layout_centerHorizontal="true"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"
+            android:text="@string/month" android:layout_weight="1" android:gravity="center"/>
+    //android:layout_toRightOf="@+id/previous"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent" android:gravity="center|end" android:layout_weight="2"
+        android:paddingEnd="20dp" android:id="@+id/next_layout">
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/next" android:background="@drawable/calendar_left_arrow_selector"/>
+    </LinearLayout>
+
+</LinearLayout>
+

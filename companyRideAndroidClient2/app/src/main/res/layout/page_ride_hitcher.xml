@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- Ride details Text Divider-->
+<RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+        <TextView
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                style="?android:listSeparatorTextViewStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rideDetails"/>
+
+        <include layout="@layout/ride_from_to_time_details" android:id="@+id/rideDetailsContainer"/>
+
+        <TextView
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                style="?android:listSeparatorTextViewStyle"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/driver"/>
+
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent"
+                      android:layout_height="wrap_content" android:id="@+id/driverContainer"/>
+
+        <TextView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            style="?android:listSeparatorTextViewStyle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/driver_messages"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/tvDriverMsgsToHitcher"
+            android:layout_height="wrap_content"
+            style="@style/Base.TextAppearance.AppCompat.Display1"
+            android:textSize="18dp"
+            android:textColor="#ff000000" android:padding="5dp"/>
+    </LinearLayout>
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" android:id="@+id/buttons" android:gravity="bottom">
+
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textColor="#ffb90200"
+                android:text=""
+                android:visibility="gone"
+                android:id="@+id/textViewMessage" android:padding="5dp"/>
+        <include layout="@layout/approve_buttons" android:id="@+id/approveButtons"
+                 android:layout_width="match_parent" android:visibility="gone" android:layout_height="wrap_content"
+                 android:layout_gravity="bottom"/>
+    </LinearLayout>
+</RelativeLayout>

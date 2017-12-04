@@ -1,0 +1,134 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content" android:id="@+id/hitcher" android:padding="5dp">
+
+    <!-- Hitcher details ride -->
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/hitcherDetails"
+        android:layout_weight="1">
+        <!-- Pickup hitchers details -->
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" android:id="@+id/UserDetails" android:layout_weight="2"
+            >
+            <!-- Hitcher name -->
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:text="..."
+                android:id="@+id/hitcherFullName" android:textSize="21dp"
+                android:textIsSelectable="false" android:textStyle="bold|italic" android:textColor="#ff1d83ff"
+                android:paddingStart="10dp"/>
+            <!-- PckUp Location -->
+            <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:text="@string/pickup"
+                        android:id="@+id/textViewPickUpTitle" android:layout_weight="2" android:textStyle="bold"
+                        android:paddingTop="5dp" android:paddingBottom="5dp" android:paddingLeft="5dp"
+                        android:layout_gravity="bottom"/>
+                <TextView android:layout_width="0dp" android:layout_height="wrap_content"
+                          android:id="@+id/textPickUpTime" android:textColor="#ffa70007"
+                          android:gravity="center"
+                          android:hint="@string/time_format" android:layout_weight="2" android:textStyle="bold"
+                          android:layout_gravity="bottom"/>
+            </LinearLayout>
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textPickUpLocation" android:hint="@string/pickup"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle"
+                    />
+            <!-- PickUp Time -->
+            <TextView android:layout_width="match_parent"
+                      android:layout_height="wrap_content" android:text="@string/drop"
+                      android:id="@+id/textViewDrop" android:textStyle="bold" android:padding="5dp"/>
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                      android:id="@+id/textViewDropLocation" android:hint="@string/drop"
+                      android:textAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle"
+                    />
+
+            <!-- "Message" text -->
+            <!-- Part for messages -->
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:showDividers="middle"
+            android:layout_weight="1"
+            >
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/buttonEditHitcherPickUpDetails" android:layout_weight="1"
+                    android:background="@drawable/button_states"
+                    android:paddingEnd="10dp"
+                    android:drawableTop="@drawable/ic_action_edit_ride"/>
+
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:id="@+id/buttonGoToMessages" android:layout_weight="1"
+                    android:background="@drawable/button_states"
+                    android:drawableTop="@drawable/ic_action_message_body"/>
+
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/hitcherImage"
+                android:src="@drawable/default_profile_pic"
+                android:padding="5dp" android:layout_weight="2"/>
+
+        </LinearLayout>
+        <!-- Profile Picture -->
+
+    </LinearLayout>
+    <!-- Reuse approve buttons layout-->
+    <include layout="@layout/approve_buttons" android:id="@+id/approveButtons"
+             android:layout_width="match_parent"
+             android:layout_height="0dp"
+             android:layout_weight="2"/>
+
+    <!--- <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                   android:orientation="horizontal"
+                   android:layout_width="fill_parent"
+                   android:layout_height="wrap_content">
+         <Button
+                 android:layout_width="0dp"
+                 android:layout_height="match_parent"
+                 android:text="Approve"
+                 android:id="@+id/approveButton"
+                 android:textColor="#ff1d7025"
+                 android:singleLine="false"
+                 android:textStyle="bold" android:layout_weight="1"/>
+
+         <Button
+                 android:layout_width="0dp"
+                 android:layout_height="match_parent"
+                 android:text="Disapprove"
+                 android:id="@+id/disapproveButton"
+                 android:textStyle="bold"
+                 android:textColor="#ffaa0002" android:layout_weight="1"/>
+
+     </LinearLayout>-->
+ </LinearLayout>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent" android:padding="5dp"
+              android:weightSum="20">
+
+    <TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        style="?android:listSeparatorTextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/give_feedback"
+        android:id="@+id/feedbackLabel"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3">
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/input_layout_category"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Spinner
+                android:id="@+id/feedback_spinner"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:spinnerMode="dropdown"
+                android:hint="@string/feedback_category"/>
+        </android.support.design.widget.TextInputLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:background="@drawable/custom_border">
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/input_layout_feedback"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="textMultiLine"
+                android:background="@android:color/transparent"
+                android:ems="10"
+                android:id="@+id/feedbackText"
+                android:textAlignment="textStart"
+                android:gravity="top|start"
+                android:hint="@string/your_feedback"
+                android:padding="5dp"/>
+        </android.support.design.widget.TextInputLayout>
+    </LinearLayout>
+
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/share_email"
+        android:id="@+id/shareEmailCheckBox"
+        android:checked="false"
+        android:padding="8dp"
+        android:layout_weight="2"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvErrorAlert"
+        android:layout_gravity="center_horizontal"
+        android:autoText="false"
+        android:textColor="#870021"
+        android:textSize="20dp"
+        android:padding="5dp"
+        android:paddingTop="5dp" />
+
+    <Button
+        android:layout_width="133dp"
+        android:layout_height="0dp"
+        android:text="@string/submit"
+        android:id="@+id/submitFeedButton"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_weight="2"
+        android:padding="3dp" />
+
+</LinearLayout>

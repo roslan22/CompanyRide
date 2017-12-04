@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="RideRequestsMatching:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RideRequestsMatching_jar</output-path>
+    <root id="root">
+      <element id="archive" name="RideRequestsMatching.jar">
+        <element id="module-output" name="RideRequestsMatching" />
+      </element>
+      <element id="library" level="project" name="libs" />
+    </root>
+  </artifact>
+</component>

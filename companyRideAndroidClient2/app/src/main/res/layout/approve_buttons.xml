@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content">
+    <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="@string/approve"
+            android:id="@+id/approveButton"
+            android:textColor="#ff1d7025"
+            android:singleLine="false"
+            android:textStyle="bold" android:layout_weight="1"/>
+
+    <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="@string/disapprove"
+            android:id="@+id/disapproveButton"
+            android:textStyle="bold"
+            android:textColor="#ffaa0002" android:layout_weight="1"/>
+
+</LinearLayout>

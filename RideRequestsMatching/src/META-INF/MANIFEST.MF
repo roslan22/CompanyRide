@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: libs/apacheds-all-1.5.4.jar libs/json-jena-1.0.jar libs/mongo-java-driver
+ -2.13.0-rc1.jar
+Main-Class: riderequestsmatching.RideRequestsMatching
+

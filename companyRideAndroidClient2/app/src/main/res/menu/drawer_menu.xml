@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/navigation" android:id="@+id/navdrawer_group_navigation">
+        <menu>
+            <item android:id="@+id/navdrawer_user_profile"
+                  android:icon="@drawable/ic_action_person_navigation"
+                  android:title="@string/user_profile"/>
+
+            <item android:id="@+id/navdrawer_calendar"
+                  android:icon="@drawable/ic_action_calendar_navigation"
+                  android:title="@string/calendar"/>
+
+            <item android:id="@+id/navdrawer_blocked_users"
+                  android:icon="@drawable/ic_blocked_users"
+                  android:title="@string/blockedUsers"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/settings" android:id="@+id/navdrawer_group_settings">
+        <menu>
+            <item android:id="@+id/navdrawer_account"
+                  android:icon="@drawable/ic_action_account"
+                  android:title="@string/account"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/other" android:id="@+id/navdrawer_group_other">
+        <menu>
+            <item android:id="@+id/navdrawer_feedback"
+                  android:icon="@drawable/ic_thumb_up"
+                  android:title="@string/feedback"/>
+
+            <item android:id="@+id/navdrawer_about"
+                  android:icon="@drawable/ic_action_about"
+                  android:title="@string/about"/>
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="single" android:id="@+id/logout_group">
+        <item android:id="@+id/navdrawer_logout"
+              android:icon="@drawable/ic_action_logout"
+              android:title="@string/logout"/>
+    </group>
+
+</menu>

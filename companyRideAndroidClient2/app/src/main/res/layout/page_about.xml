@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" android:padding="5dp"
+    android:weightSum="20">
+
+    <TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        style="?android:textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingLeft="4dp"
+        android:paddingBottom="10dp"
+        android:text="@string/about"
+        android:id="@+id/aboutLabel"
+        android:textStyle="bold" />
+    <TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        style="?android:textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:text="@string/copyright"
+        android:id="@+id/copyright"
+        />
+    <TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        style="?android:textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:text="@string/companyRideEmail"
+        android:id="@+id/aboutEmail"
+        android:autoLink="email"
+        />
+    <TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        style="?android:textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/licence_agreement"
+        android:paddingTop="20dp"
+        android:paddingLeft="4dp"
+        android:paddingBottom="5dp"
+        android:id="@+id/licenceLabel"
+        />
+
+    <include layout="@layout/product_eula" android:id="@+id/product_eula_layout"/>
+
+
+
+</LinearLayout>

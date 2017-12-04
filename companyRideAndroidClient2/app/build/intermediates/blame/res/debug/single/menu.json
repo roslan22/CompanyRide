@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login_menu.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\menu\\login_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\user_profile_menu.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\menu\\user_profile_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\account_menu.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\menu\\account_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\calendar_menu.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\menu\\calendar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\edit_menu.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\menu\\edit_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawer_menu.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ride_menu_hitcher.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\menu\\ride_menu_hitcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ride_menu.xml",
+        "source": "C:\\Users\\Ruslan\\Desktop\\new CmpRide\\companyRideAndroidClient2\\app\\src\\main\\res\\menu\\ride_menu.xml"
+    }
+]

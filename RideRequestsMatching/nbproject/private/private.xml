@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/compRide/RideRequestsMatching/src/process/rating/RatingExecutor.java</file>
+            <file>file:/C:/compRide/RideRequestsMatching/src/process/rating/RatingProcess.java</file>
+            <file>file:/C:/compRide/RideRequestsMatching/src/mongodb/Mongo.java</file>
+            <file>file:/C:/compRide/RideRequestsMatching/src/utils/schemas/UserProfile.java</file>
+            <file>file:/C:/compRide/RideRequestsMatching/src/riderequestsmatching/RideRequestsMatching.java</file>
+            <file>file:/C:/compRide/RideRequestsMatching/src/process/matching/MatchingExecutor.java</file>
+            <file>file:/C:/compRide/RideRequestsMatching/src/process/populating/PopulationExecutor.java</file>
+        </group>
+    </open-files>
+</project-private>
